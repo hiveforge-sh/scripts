@@ -96,6 +96,7 @@ See [hivemind's CROSS-PLATFORM-SCRIPTS.md](https://github.com/hiveforge-sh/hivem
 | Script | Description | Platforms |
 |--------|-------------|-----------|
 | [setup-repo](./setup-repo/) | Apply HiveForge repository standards | Windows, macOS, Linux |
+| [aws](./aws/) | Configure AWS S3 + Route53 redirects | Windows, macOS, Linux |
 
 *More scripts coming soon...*
 
